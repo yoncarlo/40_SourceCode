@@ -1,0 +1,11 @@
+{
+  "urls": {
+    "kb_login_url": "https://p.keibabook.co.jp/login/login",
+    "kb_nittei_base_url": "https://p.keibabook.co.jp/cyuou/nittei",
+    "kb_seiseki_base_url": "https://p.keibabook.co.jp/cyuou/seiseki",
+    "nk_login_url": "https://regist.netkeiba.com/account/?pid=login&action=auth"
+  },
+  "output": {
+    "import_base_path": "D:/Keiba/00_ImportData"
+  }
+}
