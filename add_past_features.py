@@ -15,8 +15,8 @@ import numpy as np
 import pandas as pd
 
 # ====== パス ======
-PROCESSED_DIR = Path(r"D:\Keiba\10_ExportData\ResultData\Processed")
-FEATURES_DIR = Path(r"D:\Keiba\30_FeaturesData")
+PROCESSED_DIR = Path(r"G:\マイドライブ\20_HOBBY\20_KEIBA\10_Data_Source\10_Export_Data\Result_Data\Processed")
+FEATURES_DIR = Path(r"G:\マイドライブ\20_HOBBY\20_KEIBA\20_Data_Features")
 
 # ====== 列名 ======
 DATE_COL = "日付S"
