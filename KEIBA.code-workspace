@@ -1,12 +1,13 @@
 {
-	"folders": [
-		{
-			"name": "00_Specification",
-			"path": "../00_Specification"
-		},
-		{
-			"name": "50_SourceCode",
-			"path": "."
-		}
-	]
+  "folders": [
+    {
+      "name": "00_Specification",
+      "path": "../00_Specification",
+    },
+    {
+      "name": "50_SourceCode",
+      "path": ".",
+    },
+  ],
+  "settings": {},
 }
